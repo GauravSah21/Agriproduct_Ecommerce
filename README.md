@@ -45,4 +45,4 @@ To run this project, you will need to add the following environment variables to
 `STRIPE_WEBHOOK_SECRET`
 
 ## Demo
-You can see app from [HERE](https://youtu.be/psp6Ojz_BDE)
+will deploy soon
